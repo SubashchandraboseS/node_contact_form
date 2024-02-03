@@ -1,0 +1,4 @@
+services:
+  - name: contact-form-api
+    buildCommand: npm install
+    startCommand: npm start
